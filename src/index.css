@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+li{
+  list-style-type: decimal;
+}
